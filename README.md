@@ -26,7 +26,7 @@ python run.py --weight_path=PATH_TO_WEIGHT_FILE
 
 - Project page
 - Paper
-- Training code
+- [Training code](https://github.com/lwwu2/diver)
 
 ## Citation
 
