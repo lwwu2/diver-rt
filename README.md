@@ -17,9 +17,9 @@ The 128 model runs much faster with smaller storage cost, but the 256 model has 
 To launch the real-time application, run:
 
 ```shell
-python run.py --weight_path=PATH_TO_WEIGHT_FILE
-			  --voxel_num=VOXEL_GRID_SIZE
-			  --device=GPU_DEVICE
+python run.py --weight_path=PATH_TO_WEIGHT_FILE \
+			  --voxel_num=VOXEL_GRID_SIZE \
+			  --device=GPU_DEVICE \
 ```
 
  ## Resources
