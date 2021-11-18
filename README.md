@@ -3,6 +3,12 @@ This repo contains the code for the real-time application of DIVeR implemented i
 
 ## Setup
 
+- python 3.8
+- pytorch 1.9.0
+- pytorch-lightning 1.2.10
+- torchvision 0.2.2
+- torch-scatter 2.0.8
+
 ### Pre-trained model
 
 We have two versions of pre-trained models trained on nerf_synthetic dataset. 
@@ -19,7 +25,7 @@ To launch the real-time application, run:
 ```shell
 python run.py --weight_path=PATH_TO_WEIGHT_FILE \
 			  --voxel_num=VOXEL_GRID_SIZE \
-			  --device=GPU_DEVICE \
+			  --device=GPU_DEVICE
 ```
 
  ## Resources
