@@ -5,9 +5,8 @@ This repo contains the code for the real-time application of DIVeR implemented i
 
 - python 3.8
 - pytorch 1.9.0
-- pytorch-lightning 1.2.10
-- torchvision 0.2.2
-- torch-scatter 2.0.8
+- moderngl
+- moderngl-window
 
 ### Pre-trained model
 
