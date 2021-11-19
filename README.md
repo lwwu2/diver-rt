@@ -30,7 +30,7 @@ python run.py --weight_path=PATH_TO_WEIGHT_FILE \
 
  ## Resources
 
-- Project page
+- [Project page](https://lwwu2.github.io/diver)
 - Paper
 - [Training code](https://github.com/lwwu2/diver)
 
