@@ -34,4 +34,13 @@ python run.py --weight_path=PATH_TO_WEIGHT_FILE \
 - [Training code](https://github.com/lwwu2/diver)
 
 ## Citation
-
+```
+@misc{wu2021diver,
+      title={DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering}, 
+      author={Liwen Wu and Jae Yong Lee and Anand Bhattad and Yuxiong Wang and David Forsyth},
+      year={2021},
+      eprint={2111.10427},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
